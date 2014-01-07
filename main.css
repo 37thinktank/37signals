@@ -1,0 +1,66 @@
+#nav {
+	height: 75px;
+}
+#nav li {
+	display: inline;
+	margin-right: 15px;
+}
+#day {
+	float:left;
+}
+#nav-list {
+	float:right;
+}
+span1 {
+margin-right: 550px;	
+color:grey;
+}
+span2 {
+	color: blue;
+}
+#second {
+	text-align:center;
+	padding-top: 10px;
+}
+#third h1 {
+	text-align: center;
+	padding-top: 10px;
+	font-size: 46px;
+}
+#third h4 {
+	text-align:center;
+	padding-top: 10px;
+}
+p {
+	display:vertical;
+	margin-right: 15px;
+}
+.blue {
+	color:blue;
+}
+.red {
+	color:red;
+}
+.each {
+	text-align: center;
+	margin-right: 15px;
+	width: 150px;
+	height: 215px;
+	border: 1px solid #e8e8e8;
+	background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#efefef));
+	border-radius: 5px;
+	padding: 20px 10px 10px;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+span {
+	display:vertical;
+}
+#buttons {
+	width: 100%;
+	text-align: center;
+}
+#container {
+	width: 820px;
+	margin: 0 auto 30px;
+	clear: both;
+}
